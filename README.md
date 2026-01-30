@@ -12,6 +12,7 @@ A product showcase project that displays all available products in a clean and s
   - Description
   - Image
   - Pricing
+- Add to Cart option with an alert to confirm that the item has been added to the cart
 - Clean, balanced, and user-friendly UI
 - Built using basic React concepts
 
